@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m @PankajRoy<br> 🌱 I am currently working on Ruby On Rails
+👋 Hi, I’m @PankajRoy  
+💻 Ruby on Rails Developer | Backend & DevOps Enthusiast | 3+ Years of experience
+⚡ Focused on scalable systems, clean architecture, and performance tuning  
+🛠️ Experience with AWS, Docker, CI/CD, and infrastructure automation via Pulumi (Azure)  
+🚀 Passionate about building reliable, production-ready systems  
+🌱 Exploring React and real-time application architectures  
 
 
 ## 🌐 Socials:
