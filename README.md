@@ -2,12 +2,6 @@
 👋 Hi, I’m <a href="https://www.pankajroy.in">
   <img src="https://img.shields.io/badge/Pankaj%20Kumar-47A248?style=flat-square&logo=none" align="center" />
 </a>  
-<h1 align="center">
-  Hi 👋, I'm 
-  <a href="https://www.pankajroy.in">
-    <img src="https://img.shields.io/badge/Pankaj%20Kumar-47A248?style=flat&logo=none" />
-  </a>
-</h1>
 💻 Ruby on Rails Developer | Backend & DevOps Enthusiast | 3+ Years of experience  
 ⚡  Focused on scalable systems, clean architecture, and performance tuning  
 🛠️ Experience with AWS, Docker, CI/CD, and infrastructure automation via Pulumi (Azure)  
