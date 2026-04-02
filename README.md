@@ -21,6 +21,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pankajroy4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=pankajroy4&theme=onedark&no-frame=true&row=1&column=6)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pankajroy4&icon=0&color=0)](https://visitcount.itsvg.in)
